@@ -1,7 +1,6 @@
 # Sparks-Foundation
 
-This are the Tasks  of Spark Foundation Internship
-Task 1 :
+This is the Task 1  of Spark Foundation Internship
 
 The aim is to predict the percentage of an student based on the no. of study hours.
 
